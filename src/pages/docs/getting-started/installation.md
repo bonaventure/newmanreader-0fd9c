@@ -156,4 +156,6 @@ We’ve packed this theme with powerful features to help you have awesome docume
 
 <a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
 
+## Here is another Header
 
+This is an example of another header - will it link to the jump menu?
