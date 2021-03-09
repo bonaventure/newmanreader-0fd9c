@@ -1,5 +1,5 @@
 ---
-title: Community Round-up
+title: Community Round-Up
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
