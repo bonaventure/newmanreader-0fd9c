@@ -69,6 +69,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
+    image: images/scholars-ad.jpg
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
